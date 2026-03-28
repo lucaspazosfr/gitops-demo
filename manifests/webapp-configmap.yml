@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: webapp-config
 data:
-  STUDENT_NAME: "[Nombre y apellidos del alumno/a]"
-  ACADEMIC_YEAR: "[Curso actual]"
+  STUDENT_NAME: "Lucas Pazos Franco"
+  ACADEMIC_YEAR: "2025/26"
